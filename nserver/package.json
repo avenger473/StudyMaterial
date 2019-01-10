@@ -1,0 +1,24 @@
+{
+  "name": "nserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "fs": "0.0.1-security",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^5.4.1",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}
